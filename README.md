@@ -31,6 +31,9 @@ AWS VPC, EC2, S3 with Terraform modules and remote backend
 📊 **[GitHub Actions CI/CD Pipeline](https://github.com/aimananjum/Github-Action-CICD-pipeline)**
 Automated pipeline using GitHub Actions, Docker and AWS EC2
 
+🔧 **[VPC-with-public-private-subnet-in-production](https://github.com/aimananjum/VPC-with-public-private-subnet-in-production.git)**
+This project demonstrates a highly available and scalable web application architecture using AWS services
+
 ---
 
 ## 📫 Connect with me
